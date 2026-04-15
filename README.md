@@ -57,6 +57,11 @@ Check the [demo](https://chiri.the3ash.com/) for more details.
 - https://benji.org/
 - https://shud.in/
 - https://retypeset.radishzz.cc/
+- Mermaid.js
+   - https://docs.astro.build/en/reference/configuration-reference/#markdownsyntaxhighlightexcludelangs
+   - https://github.com/remcohaszing/rehype-mermaid
+   - https://astro.build/blog/astro-550/#better-support-for-diagramming-tools-in-markdown
+   - https://agramont.net/blog/diagraming-with-mermaidjs-astro
 
 ## License
 
